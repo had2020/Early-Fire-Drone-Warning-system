@@ -1,2 +1,5 @@
 
 /frontend/target
+frontend/.DS_Store
+**/*.rs.bk
+/project/target
